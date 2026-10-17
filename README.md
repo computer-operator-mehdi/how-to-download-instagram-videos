@@ -10,7 +10,7 @@ This guide covers how to use iGram for video downloads, what types of video cont
 ## Quick Start: How to Download Instagram Videos
 
 1. **Copy** the Instagram link.
-2. **Paste** it on `iGram.pk`.
+2. **Paste** it on [IGRAM](https://igram.pk)
 3. **Download** the video.
 
 ---
